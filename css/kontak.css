@@ -1,0 +1,144 @@
+@import url(https://db.onlinewebfonts.com/c/021f3eb1da35b2a042907dc870c00b9c?family=Twentieth+Century+W01+XtraBdCn);
+@import url(https://db.onlinewebfonts.com/c/165b3175b1345c0eb8b4097f4d024455?family=Century);
+@import url(https://db.onlinewebfonts.com/c/39a2c7f346d5cfae7045aeb2fb50d9ad?family=Lulo+Clean+W01+One+Bold);
+@import url(https://db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book);
+
+*, body, html {
+    margin: 0;
+    padding: 0;
+   
+}
+
+.body {
+    position: absolute;
+    background-image: url(/assets/kimi.png);
+    width: 100%;
+    height: 100vh;
+    /* font-family: "Lulo Clean W01 One Bold"; */
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.table-kontak {
+    margin: 120px 0 0 500px;
+    width: 60%;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    opacity: .7 !important;
+}
+
+.satu {
+height: 25px;
+width: 25px;
+}
+
+.dua {
+
+height: 25px;
+width: 25px;
+}
+
+
+.tiga {
+
+height: 25px;
+width: 25px;
+}
+
+.si {
+    list-style-type: none;
+    text-decoration: none;
+    color: whitesmoke;
+    transition: .3s ease-in-out;
+}
+.si:hover {
+   padding: 5px;
+   background-color: rgb(19, 202, 141);
+   color: rgb(0, 0, 0);
+   transition: .4s ease-in-out;
+   border-radius: 4px;
+   font-weight: bold;
+
+}
+.ti {
+    list-style-type: none;
+    text-decoration: none;
+    color: whitesmoke;
+    transition: .3s ease-in-out;
+}
+
+.ti:hover {
+    padding: 5px;
+    background-color: rgb(14, 122, 86);
+    color: rgb(0, 0, 0);
+    transition: .4s ease-in-out;
+    border-radius: 4px;
+    font-weight: bold;
+ }
+
+
+.pti {
+    list-style-type: none;
+    text-decoration: none;
+    color: whitesmoke;
+    transition: .3s ease-in-out;
+}
+
+.pti:hover {
+    padding: 5px;
+    background-color: rgb(14, 122, 86);
+    color: rgb(0, 0, 0);
+    transition: .4s ease-in-out;
+    border-radius: 4px;
+    font-weight: bold;
+ }
+
+ .g1 {
+    margin: -465px 0 0 111px;
+    justify-content: center;
+    align-items: center;
+    rotate: 10deg;
+    width: 0;
+    height: 0;
+ }
+
+
+ .g2 {
+    margin: -175px 0 0 201px;
+    justify-content: center;
+    align-items: center;
+    width: 0;
+    height: 0;
+ }
+ .g3 {
+    margin: 135px 0 0 181px;
+    justify-content: center;
+    align-items: center;
+    rotate: 10deg;
+    width: 0;
+    height: 0;
+ }
+
+ .card {
+    width: 30%;
+    height: 30vh;
+    margin: 230px 0 0 20px;
+    justify-content: center;
+    align-content: center;
+    opacity: .8;
+ }
+
+ .israel-icon {
+
+  transition: .4s ease;
+ }
+ .israel-icon:hover {
+  background-color: rgb(33, 137, 255);
+  padding: 5px;
+  border-radius: 4px;
+  transition: .4s ease-in-out;
+  
+ 
+ }
